@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+    color: white;
+}
+
+header{
+    background-image:url(images/FavorableDarkDrafthorse-size_restricted.gif) ;
+    height: 180px;
+    background-attachment: fixed;
+
+}
+nav a{
+    text-decoration: none;
+    text-size-adjust: 20px;
+    color: aliceblue;
+    text-size-adjust: 18;
+    text-align: center;
+    padding: 20px;
+    float:left;
+}
+nav{
+    background-color: blueviolet;
+    overflow: hidden;
+}
+nav a:hover{
+    color: blue;
+}
+div{
+    text-align: center;
+    text-decoration: none;
+    padding: 17px;
+    font-size: larger;
+    
+    
+    
+}
+section{
+    text-align: center;
+}
+
+
